@@ -1,0 +1,6 @@
+{
+  "name": "Personal Loan Tracker",
+  "description": "Track loans, borrowers, and repayments for individual lenders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
